@@ -59,7 +59,7 @@ def test_get_nth_fibonacci_one():
 
 
 def test_get_nth_fibonacci_ten():
-    """Test with n=10. and made a change to do test commit"""
+    """Test with n=10. and made a change to do test commit changing the value to 55 """
     # Arrange
     n = 10
 
